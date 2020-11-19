@@ -1,0 +1,73 @@
+body{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+
+.navbar{
+	background-color:purple;
+	height:70px;
+	
+	}
+
+ul {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	
+}
+
+ ul li{
+ 	float: left;
+	width: 200px;
+	height: 60px;
+	background-color: black;
+	opacity: 0.8;
+	line-height: 40px;
+	text-align: center;
+	margin-right: 5px;
+	font-size: 25px;	
+
+
+}
+
+ ul li a{
+	font-family: cursive;
+	color:white;
+
+	display: block;
+	height: 60px;
+
+}
+li a:hover {
+  background-color:yellow;
+}
+.thumbnail{
+	padding-left: 20px;
+	height: 350px;
+}
+
+
+.fromUs img{
+	float:left;
+	width: 400px;
+}
+h2{
+	font-family: cursive;
+	color: black;
+	font-size: 25px;
+}
+
+h5{
+	font-family: initial;
+	color: black;
+	font-size: 40px;
+	text-align: center;
+	font-weight: bold;
+
+}
+h6{
+	font-size: 50px;
+}
+
